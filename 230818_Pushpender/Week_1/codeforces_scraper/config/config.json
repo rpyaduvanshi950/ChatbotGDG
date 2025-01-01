@@ -1,0 +1,4 @@
+{
+    "problem_url_format": "https://codeforces.com/problemset/problem/{contest}/{problem}",
+    "editorial_url_format": "https://codeforces.com/contest/{contest}/editorial"
+}
